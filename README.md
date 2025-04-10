@@ -1,9 +1,8 @@
 # Verity-Solver
 An overlay for Destiny 2 "Verity" Encounter in Salvation's Edge Raid. Offers "Double" mode, and "Fast" modes.
 
-![image](https://github.com/user-attachments/assets/093f35de-cfc9-49a1-a295-c8b0f9d5d896)
-![image](https://github.com/user-attachments/assets/00fa0adb-af21-4949-823d-788241767cec)
-
+https://s3.us-east-2.amazonaws.com/i.uploading.life.com/ShareX/2025/04/python3.10_CYtCx4W6lA.png
+https://s3.us-east-2.amazonaws.com/i.uploading.life.com/ShareX/2025/04/pycharm64_8Qt49FNAM2.png
 
 
 Statue Position: This will be where your statue is located inside. Use 7, 8, and 9 to select the position.
