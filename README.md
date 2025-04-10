@@ -14,5 +14,5 @@ Wall Shapes: This is the shapes shown on your wall. Use 1, 2, 3 to select shapes
 
 
 
-For any questions or concerns, contact "_life_" on Discord.
+For any questions or concerns, contact "_life_" on Discord..
 
