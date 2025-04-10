@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="discord-py-interactions" />
+            <item index="1" class="java.lang.String" itemvalue="discord-py-slash-command" />
+            <item index="2" class="java.lang.String" itemvalue="discord-typings" />
+            <item index="3" class="java.lang.String" itemvalue="discord.js" />
+            <item index="4" class="java.lang.String" itemvalue="discord.py" />
+            <item index="5" class="java.lang.String" itemvalue="pydest" />
+            <item index="6" class="java.lang.String" itemvalue="youtube_dl" />
+            <item index="7" class="java.lang.String" itemvalue="discord-py" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="game.character_dict" />
+          <option value="discord.ext.commands.bot.Bot.slash" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
