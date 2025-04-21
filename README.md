@@ -11,5 +11,5 @@ Held Shape: This is the shape your guardian is holding. Use 4, 5, 6 to select th
 Wall Shapes: This is the shapes shown on your wall. Use 1, 2, 3 to select shapes.
 
 
-
+Dissection is a WIP, don't hate me
 For any questions or concerns, contact _ life _ on Discord..
